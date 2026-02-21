@@ -197,7 +197,7 @@ function draw() {
     statusText = "👍 Walking!";
   }
 
-  // ── EXPLODE ──
+  // ── EXPLODE ──gvjhgjghjgjhgjhgjghjghfhfhiltuyekdtfruyfytfg
   if (state === STATES.EXPLODE) {
     for (const pc of pieces) {
       pc.vy += 0.55; // gravity
