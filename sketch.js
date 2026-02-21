@@ -7,7 +7,7 @@
 //  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
 //  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.21.0/dist/tf.min.js"></script>
 //  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
-// ============================================================
+// ===== =======================================================
 
 const MODEL_URL = "https://teachablemachine.withgoogle.com/models/43prg9ZF6/";
 
